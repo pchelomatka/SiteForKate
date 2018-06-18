@@ -1,9 +1,14 @@
 .frame{
-	background-color: #FFF;
 	text-align: center;
 	cursor: pointer;
 	transition: 0.75s;
 	
+	   
+}
+
+.img-fluid{
+	max-width: 95%;
+	height: auto;
 
 }
 
@@ -12,10 +17,3 @@
 	transition: 0.75s;    
 }
 
-.test2{
-	background-color: #FF0;
-}
-
-.test3{
-	background-color: #00F;
-}

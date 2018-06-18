@@ -13,53 +13,85 @@
 <body>
 <div class="container">
 	<div class="row">
-		<div class="col-4">
+		<div class="col-sm-4">
 			<div class="frame">
-				<br>
-				<a href="video1.php"><img src="src\1.jpg" width="150"></a>
-				<p>Тестовое видео</p>
-				<p>Реклама</p>				
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
 			</div>
 		</div>
-		<div class=" col-4">
+		<div class="col-sm-4">
 			<div class="frame">
-				<br>
-				<a href="video1.php"><img src="src\1.jpg" width="150"></a>
-				<p>Тестовое видео</p>
-				<p>Реклама</p>				
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
 			</div>
 		</div>
-		<div class=" col-4">
+		<div class="col-sm-4">
 			<div class="frame">
-				<br>
-				<a href="video1.php"><img src="src\1.jpg" width="150"></a>
-				<p>Тестовое видео</p>
-				<p>Реклама</p>				
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
 			</div>
 		</div>
-		
-		<div class="col-4">
+		<div class="col-sm-4">
 			<div class="frame">
-				<br>
-				<a href="video1.php"><img src="src\1.jpg" width="150"></a>
-				<p>Тестовое видео</p>
-				<p>Реклама</p>				
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
 			</div>
 		</div>
-		<div class="col-4">
+		<div class="col-sm-4">
 			<div class="frame">
-				<br>
-				<a href="video1.php"><img src="src\1.jpg" width="150"></a>
-				<p>Тестовое видео</p>
-				<p>Реклама</p>				
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
 			</div>
 		</div>
-		<div class="col-4">
+		<div class="col-sm-4">
 			<div class="frame">
-				<br>
-				<a href="video1.php"><img src="src\1.jpg" width="150"></a>
-				<p>Тестовое видео</p>
-				<p>Реклама</p>				
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="frame">
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="frame">
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="frame">
+				<div class="container">
+					<p>Тестовое видео</p>
+					<a href="video1.php"><img src="src\1.jpg" class="img-fluid" alt="Responsive image"></a>
+					<p>Реклама</p>	
+				</div>			
 			</div>
 		</div>
 	</div>
