@@ -3,11 +3,10 @@
 	cursor: pointer;
 	transition: 0.75s;	 
 	padding-bottom: 10px;
-
 }
 
 .img-fluid{
-	max-width: 100%;
+	max-width: auto;
 	height: 200px;
 }
 
@@ -21,10 +20,6 @@
 	height: 200px;
 }
 
-.header{
-	padding: 10px;
-}
-
 .list1{
 	font-weight: bolder;
 	margin: 1px;
@@ -35,6 +30,24 @@
 	font-size: 80%;
 }
 
-.col-sm-4{
+.picbody{
+	padding-top: 30px;
+}
+
+.container-bottom{
+	text-align: center;	
+	padding-top: 30px;	
+	padding-bottom: 10px;
+}
+
+.bottom{
+	color: #b7b7b7;	
+}
+
+.bottom:hover{
+	color: #000;
+}
+
+.header{
 	padding-top: 30px;
 }

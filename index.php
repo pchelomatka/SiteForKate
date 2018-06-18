@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
 	<title>Gorodnicheva films</title>
+
 </head>
 <body>
 
@@ -33,12 +34,12 @@
 <div class="header">
 <div class="container">
   <div class="row justify-content-md-center">
-    <div class="col col-lg-2">      
+    <div class="col-sm-4">      
     </div>
     <div class="col-md-auto">
-      <img src="src\katya.jpg" class="img-fluidHead" alt="Responsive image">
+      <img src="src\logo.jpg" class="img-fluidHead" alt="Responsive image">
     </div>
-    <div class="col col-lg-2">      
+    <div class="col-sm-4">      
     </div>
   </div>
 </div>
@@ -46,95 +47,129 @@
 
 
 <div class="container">
-	<div class="row">
+	<div class="row">		
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="frame">
-				<div class="container">		
-					<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-					<p class="list1">Тестовое видео</p>
-					<p class="list2">Реклама</p>
-				</div>			
+			<div class="picbody">
+				<div class="frame">
+					<div class="container">		
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>			
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
 
-
-
-
+<div class="container-bottom">
+<div class="container-fluid">
+  <div class="row">      
+    <div class="col-sm-4">      
+    </div>
+    <div class="col-sm">
+      <a href="https://vimeo.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vimeo-v fa-2x"></i></a>
+    </div>
+    <div class="col-sm">
+      <a href="https://vk.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vk fa-2x"></i></a>
+    </div>
+    <div class="col-sm">
+      <a href="https://www.instagram.com/gorodcat/" class="bottom" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+    </div>
+    <div class="col-sm-4">          
+    </div>            
+  </div>
+</div>
+</div>
 
 
 
