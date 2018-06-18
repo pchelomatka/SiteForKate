@@ -3,11 +3,8 @@
 	cursor: pointer;
 	transition: 0.75s;	 
 	padding-bottom: 10px;
-}
-
-.img-fluid{
-	max-width: auto;
-	height: 200px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 .frame:hover{
@@ -30,10 +27,6 @@
 	font-size: 80%;
 }
 
-.picbody{
-	padding-top: 30px;
-}
-
 .container-bottom{
 	text-align: center;	
 	padding-top: 30px;	
@@ -50,4 +43,12 @@
 
 .header{
 	padding-top: 30px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.container-fluid{
+	padding-top: 5px;
+	text-align: center;
+	padding-bottom: 5px;
 }
