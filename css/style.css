@@ -1,0 +1,21 @@
+.frame{
+	background-color: #FFF;
+	text-align: center;
+	cursor: pointer;
+	transition: 0.75s;
+	
+
+}
+
+.frame:hover{
+	box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+	transition: 0.75s;    
+}
+
+.test2{
+	background-color: #FF0;
+}
+
+.test3{
+	background-color: #00F;
+}
