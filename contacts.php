@@ -27,7 +27,7 @@
       <a class="nav-item nav-link" href="#"><i class="fas fa-user"></i> Обо мне</a>
       <a class="nav-item nav-link" href="#"><i class="fas fa-dollar-sign"></i> Цены</a>
       <a class="nav-item nav-link" href="#"><i class="fas fa-book"></i> Отзывы</a>
-      <a class="nav-item nav-link" href="contacts.php"><i class="fas fa-address-card"></i> Контакты</a>
+      <a class="nav-item nav-link" href="#"><i class="fas fa-address-card"></i> Контакты</a>
     </div>
   </div>
 </nav>
@@ -38,98 +38,10 @@
 	</div>
 </div>
 
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-sm-3">			
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm-3">			
-		</div>
-	</div>
-</div>
-
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-sm-3">			
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm-3">			
-		</div>
-	</div>
-</div>
-
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-sm-3">			
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm-3">			
-		</div>
-	</div>
-</div>
 
 
-<nav class="navbar navbar-light bg-light">
+
+<nav class="navbar fixed-bottom navbar-light bg-light">
 	<div class="container">
 		<div class="container-fluid">
   		<div class="row">      
@@ -150,6 +62,7 @@
 		</div>
 	</div>   
 </nav>
+
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
