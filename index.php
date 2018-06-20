@@ -16,143 +16,152 @@
 </head>
 
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="index.php">Gorodnicheva films</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="index.php"><i class="fas fa-video"></i> Видео<span class="sr-only">(current)</span></a></a>
-      <a class="nav-item nav-link" href="#"><i class="fas fa-user"></i> Обо мне</a>
-      <a class="nav-item nav-link" href="#"><i class="fas fa-dollar-sign"></i> Цены</a>
-      <a class="nav-item nav-link" href="#"><i class="fas fa-book"></i> Отзывы</a>
-      <a class="nav-item nav-link" href="contacts.php"><i class="fas fa-address-card"></i> Контакты</a>
-    </div>
-  </div>
-</nav>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="index.php">Gorodnicheva films</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+			<div class="navbar-nav">
+				<a class="nav-item nav-link active" href="index.php"><i class="fas fa-video"></i> Видео<span class="sr-only">(current)</span></a>
+				<a class="nav-item nav-link" href="#"><i class="fas fa-user"></i> Обо мне</a>
+				<a class="nav-item nav-link" href="#"><i class="fas fa-dollar-sign"></i> Цены</a>
+				<a class="nav-item nav-link" href="#"><i class="fas fa-book"></i> Отзывы</a>
+				<a class="nav-item nav-link" href="contacts.php"><i class="fas fa-address-card"></i> Контакты</a>
+			</div>
+		</div>
+	</nav>
 
-<div class="header">
-	<div class="container-fluid">  
-      <img src="src\logo.jpg" class="img-fluidHead" alt="Responsive image" align="middle">    
+	<div class="header">  
+		<img src="src\logo.jpg" class="img-fluidHead" alt="Responsive image" align="middle">    
 	</div>
-</div>
 
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-sm-3">			
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
+	<div class="container-fluid">
+		<div class="paddingindex">
+			<div class="row">
+				<div class="col-sm-3">			
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm-3">			
+				</div>
 			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm-3">			
-		</div>
-	</div>
-</div>
-
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-sm-3">			
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm-3">			
 		</div>
 	</div>
-</div>
 
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-sm-3">			
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
+	<div class="container-fluid">
+		<div class="paddingindex">
+			<div class="row">
+				<div class="col-sm-3">			
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm-3">			
+				</div>
 			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm">
-			<div class="frame">
-				<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
-				<p class="list1">Тестовое видео</p>
-				<p class="list2">Реклама</p>
-			</div>
-		</div>
-		<div class="col-sm-3">			
 		</div>
 	</div>
-</div>
 
-
-<nav class="navbar navbar-light bg-light">
-	<div class="container">
-		<div class="container-fluid">
-  		<div class="row">      
-    		<div class="col-sm-4">      
-    		</div>
-    		<div class="col-sm">
-      			<a href="https://vimeo.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vimeo-v fa-2x"></i></a>
-    		</div>
-    		<div class="col-sm">
-      			<a href="https://vk.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vk fa-2x"></i></a>
-    		</div>
-    		<div class="col-sm">
-      		<a href="https://www.instagram.com/gorodcat/" class="bottom" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
-    		</div>
-    		<div class="col-sm-4">          
-    		</div>            
-  		</div>
+	<div class="container-fluid">
+		<div class="paddingindex2">
+			<div class="row">
+				<div class="col-sm-3">			
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm">
+					<div class="frame">
+						<a href="video1.php"><img src="src\1.jpg"  vspace="10" class="img-fluid" alt="Responsive image"></a>
+						<p class="list1">Тестовое видео</p>
+						<p class="list2">Реклама</p>
+					</div>
+				</div>
+				<div class="col-sm-3">			
+				</div>
+			</div>
 		</div>
-	</div>   
-</nav>
+	</div>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
+
+
+
+	<div class="footer">
+		<nav class="navbar navbar-light bg-light">
+			<div class="container">
+				<div class="container-fluid">
+					<div class="row">      
+						<div class="col-sm-4">      
+						</div>
+						<div class="col-sm">
+							<a href="https://vimeo.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vimeo-v fa-2x"></i></a>
+						</div>
+						<div class="col-sm">
+							<a href="https://vk.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vk fa-2x"></i></a>
+						</div>
+						<div class="col-sm">
+							<a href="https://www.instagram.com/gorodcat/" class="bottom" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+						</div>
+						<div class="col-sm-4">          
+						</div>            
+					</div>
+				</div>
+			</div>   
+		</nav>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 </body>
 </html>

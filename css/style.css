@@ -42,8 +42,21 @@
 	padding-bottom: 30px;
 }
 
-.container-fluid{
-	padding-top: 5px;
+
+.footer{
 	text-align: center;
-	padding-bottom: 5px;
+}
+
+.header{
+	text-align: center;
+}
+
+.paddingindex{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.paddingindex2{
+	padding-top: 15px;
+	padding-bottom: 100px;
 }
