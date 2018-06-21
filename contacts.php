@@ -37,28 +37,36 @@
 		<img src="src\logo.jpg" class="img-fluidHead" alt="Responsive image" align="middle">    
 	</div>
 
+	<div class="container">
+		<div class="contacts">
+			<p>г. Астрахань</p>
+			<p>ВКонтакте: <a href="https://vk.com/gorodcat" target="_blank">Екатерина Городничева</a></p>
+			<p>Vimeo: <a href="https://vimeo.com/gorodcat" target="_blank">Gorodcat</a></p>
+			<p>Instagram: <a href="https://www.instagram.com/gorodcat/" target="_blank">gorodcat</a></p>
+			<p>Почта: почта</p>
+			<p>Здесь телефоны и всякие телеги, если надо</p>
+		</div>
+	</div>
 
-	<nav class="navbar fixed-bottom navbar-light bg-light">
-		<div class="container">
-			<div class="container-fluid">
-				<div class="row">      
-					<div class="col-sm-4">      
+	<div class="footer">
+		<nav class="navbar fixed-bottom navbar-light bg-light">
+			<div class="container">
+				<div class="container-fluid">
+					<div class="row justify-content-center">						
+						<div class="col-sm-2">
+							<a href="https://vimeo.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vimeo-v fa-2x"></i></a>
+						</div>
+						<div class="col-sm-2">
+							<a href="https://vk.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vk fa-2x"></i></a>
+						</div>
+						<div class="col-sm-2">
+							<a href="https://www.instagram.com/gorodcat/" class="bottom" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+						</div>						            
 					</div>
-					<div class="col-sm">
-						<a href="https://vimeo.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vimeo-v fa-2x"></i></a>
-					</div>
-					<div class="col-sm">
-						<a href="https://vk.com/gorodcat" class="bottom" target="_blank"><i class="fab fa-vk fa-2x"></i></a>
-					</div>
-					<div class="col-sm">
-						<a href="https://www.instagram.com/gorodcat/" class="bottom" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
-					</div>
-					<div class="col-sm-4">          
-					</div>            
 				</div>
-			</div>
-		</div>   
-	</nav>
+			</div>   
+		</nav>
+	</div>
 
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
